@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\starg\source\repos\examVariant2\examVariant2\main.cpp(1,9): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  examVariant2.vcxproj -> C:\Users\starg\source\repos\examVariant2\Debug\examVariant2.exe
